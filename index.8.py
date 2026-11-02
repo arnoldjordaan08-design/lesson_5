@@ -8,7 +8,7 @@ greet()
 def personalized_greet(name):
   print(f"Hello, {name}!")
 
-personalized_greet("Connor")
+personalized_greet("Arnold")
 
 #Question 3
 def square(num):
